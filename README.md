@@ -27,3 +27,7 @@ dio-agent-appsec/
 ├── tests/
 │   └── test_login.py                # Testes automatizados de autenticação[cite: 2]
 └── integrate.py                     # Script principal de integração do agente[cite: 2]
+🛠️ Tecnologias Utilizadas
+-Python (Scripts de integração, exemplos e testes)
+-Markdown (Base de conhecimento e definição de Skills do agente)
+-Conceitos de AppSec (Análise estática, mitigação de falhas e testes de segurança)
